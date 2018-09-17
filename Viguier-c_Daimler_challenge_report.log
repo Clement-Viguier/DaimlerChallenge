@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.10)  17 SEP 2018 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.10)  17 SEP 2018 09:49
 entering extended mode
 **./Viguier-c_Daimler_challenge_report.tex
 (Viguier-c_Daimler_challenge_report.tex
@@ -1315,13 +1315,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
- 14010 strings out of 493314
- 195365 string characters out of 3138867
- 394604 words of memory out of 3000000
- 17234 multiletter control sequences out of 15000+200000
+ 14015 strings out of 493314
+ 195455 string characters out of 3138867
+ 394634 words of memory out of 3000000
+ 17239 multiletter control sequences out of 15000+200000
  56130 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,45p,1315b,611s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,45p,1315b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/fpl/fplbj8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
@@ -1330,7 +1330,7 @@ blic/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij
 es/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/palatino/uplri8a.pfb>
-Output written on Viguier-c_Daimler_challenge_report.pdf (8 pages, 316232 bytes
+Output written on Viguier-c_Daimler_challenge_report.pdf (8 pages, 319418 bytes
 ).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
